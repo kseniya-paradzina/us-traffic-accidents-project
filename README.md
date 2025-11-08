@@ -79,7 +79,7 @@ us-traffic-accidents-project/
 ├── Images/
 │ └── [optional visualizations or screenshots]
 │
-├── DS_Capstone_Notebook.ipynb <- Main analysis notebook
+├── US_Traffic_Accidents_Project.ipynb <- Main analysis notebook
 ├── README.md <- Project documentation (this file)
 └── LICENSE
 ```
