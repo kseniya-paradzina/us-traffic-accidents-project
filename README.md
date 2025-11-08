@@ -70,7 +70,7 @@ Explore the interactive visualization on Tableau Public:
 ---
 
 ## 📁 Repository Structure
-
+```
 us-traffic-accidents-project/
 │
 ├── Data/
@@ -82,7 +82,7 @@ us-traffic-accidents-project/
 ├── DS_Capstone_Notebook.ipynb <- Main analysis notebook
 ├── README.md <- Project documentation (this file)
 └── LICENSE
-
+```
 ---
 
 ## 📚 References
