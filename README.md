@@ -70,6 +70,7 @@ Explore the interactive visualization on Tableau Public:
 ---
 
 ## 📁 Repository Structure
+'''
 us-traffic-accidents-project/
 │
 ├── Data/
@@ -84,6 +85,19 @@ us-traffic-accidents-project/
 
 
 ---
+## 🗂️ Repository Structure
+
+us-traffic-accidents-project/
+├── 📁 Data/
+│ └── US_Accidents_March23.csv
+│
+├── 📁 Images/
+│ └── [optional visualizations or screenshots]
+│
+├── 📓 DS_Capstone_Notebook.ipynb <- Main analysis notebook
+│
+├── 📄 README.md <- Project documentation (this file)
+└── 📜 LICENSE
 
 ## 📚 References
 - Dataset: [US Accidents (Kaggle)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)  
