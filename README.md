@@ -65,9 +65,8 @@ States such as **California, Texas, and Florida** show the highest accident rate
 
 ## 📈 Tableau Dashboard  
 Explore the interactive visualization on Tableau Public:  
-👉 **[View Dashboard](https://public.tableau.com/views/us-traffic-dashboard)**  
+👉 **[View Dashboard]([https://public.tableau.com/views/us-traffic-dashboard](https://public.tableau.com/app/profile/kseniya.paradzina/viz/U_S_TrafficAccidentAnalysis20162023/Dashboard1))**  
 
-*(Replace the link above with your actual Tableau Public link once published.)*
 
 ---
 
